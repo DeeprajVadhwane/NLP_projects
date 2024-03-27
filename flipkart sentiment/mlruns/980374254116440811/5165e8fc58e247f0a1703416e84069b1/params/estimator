@@ -1,3 +1,0 @@
-Pipeline(steps=[('vectorization', CountVectorizer()), ('smote', SMOTE()),
-                ('classifier',
-                 <class 'sklearn.linear_model._logistic.LogisticRegression'>)])

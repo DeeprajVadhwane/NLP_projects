@@ -1,1 +1,0 @@
-{'classifier__C': 1, 'classifier__class_weight': 'balanced', 'classifier__l1_ratio': 0.4, 'classifier__penalty': 'elasticnet', 'classifier__solver': 'saga', 'vectorization': CountVectorizer(), 'vectorization__max_features': 2000}

@@ -1,1 +1,0 @@
-[{'vectorization': [CountVectorizer()], 'vectorization__max_features': [100, 150], 'classifier__alpha': [10, 20]}]

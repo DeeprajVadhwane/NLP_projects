@@ -1,3 +1,0 @@
-Pipeline(steps=[('vectorization', CountVectorizer()),
-                ('classifier',
-                 <class 'sklearn.tree._classes.DecisionTreeClassifier'>)])

@@ -1,2 +1,0 @@
-Pipeline(steps=[('vectorization', CountVectorizer()), ('smote', SMOTE()),
-                ('classifier', <class 'sklearn.naive_bayes.MultinomialNB'>)])

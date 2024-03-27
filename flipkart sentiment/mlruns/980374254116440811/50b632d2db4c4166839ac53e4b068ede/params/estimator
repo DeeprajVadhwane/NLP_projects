@@ -1,3 +1,0 @@
-Pipeline(steps=[('vectorization', CountVectorizer()),
-                ('classifier',
-                 <class 'sklearn.ensemble._forest.RandomForestClassifier'>)])
