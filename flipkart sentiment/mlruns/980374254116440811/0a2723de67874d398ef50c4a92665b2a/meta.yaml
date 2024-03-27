@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/0a2723de67874d398ef50c4a92665b2a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: 0a2723de67874d398ef50c4a92665b2a
+run_name: suave-gull-214
+run_uuid: 0a2723de67874d398ef50c4a92665b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711456594233
+status: 1
+tags: []
+user_id: HP

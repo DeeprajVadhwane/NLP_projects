@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/a603e5fea52d47a88bbb7bd4d64bab4a/artifacts
+end_time: 1711457317890
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: a603e5fea52d47a88bbb7bd4d64bab4a
+run_name: skittish-frog-507
+run_uuid: a603e5fea52d47a88bbb7bd4d64bab4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457317766
+status: 4
+tags: []
+user_id: HP

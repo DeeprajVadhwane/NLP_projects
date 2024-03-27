@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/c4be3c9d3fb1437bbc26d1fbc2db9441/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: c4be3c9d3fb1437bbc26d1fbc2db9441
+run_name: serious-bee-500
+run_uuid: c4be3c9d3fb1437bbc26d1fbc2db9441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

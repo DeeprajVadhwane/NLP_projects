@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/af7b87d5c7704aa8b3d7847a7b529d0b/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: af7b87d5c7704aa8b3d7847a7b529d0b
+run_name: bemused-turtle-283
+run_uuid: af7b87d5c7704aa8b3d7847a7b529d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

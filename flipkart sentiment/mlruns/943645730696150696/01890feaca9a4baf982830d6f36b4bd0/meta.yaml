@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/01890feaca9a4baf982830d6f36b4bd0/artifacts
+end_time: 1711457698697
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 01890feaca9a4baf982830d6f36b4bd0
+run_name: skillful-auk-687
+run_uuid: 01890feaca9a4baf982830d6f36b4bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457447962
+status: 3
+tags: []
+user_id: HP

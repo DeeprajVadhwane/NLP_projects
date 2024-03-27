@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/096cc1f1e2c24a51aef3effa74bec0d9/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: 096cc1f1e2c24a51aef3effa74bec0d9
+run_name: youthful-shrimp-767
+run_uuid: 096cc1f1e2c24a51aef3effa74bec0d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

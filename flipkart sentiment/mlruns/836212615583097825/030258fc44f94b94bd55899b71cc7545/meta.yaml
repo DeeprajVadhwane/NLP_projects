@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/030258fc44f94b94bd55899b71cc7545/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: 030258fc44f94b94bd55899b71cc7545
+run_name: likeable-steed-691
+run_uuid: 030258fc44f94b94bd55899b71cc7545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

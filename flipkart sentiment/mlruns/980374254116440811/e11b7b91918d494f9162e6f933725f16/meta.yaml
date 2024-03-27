@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/e11b7b91918d494f9162e6f933725f16/artifacts
+end_time: 1711448667187
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: e11b7b91918d494f9162e6f933725f16
+run_name: bald-hound-612
+run_uuid: e11b7b91918d494f9162e6f933725f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711448666483
+status: 3
+tags: []
+user_id: HP

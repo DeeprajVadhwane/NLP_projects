@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/982429e05d274f1b86d29cb53e719f16/artifacts
+end_time: 1711468450646
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 982429e05d274f1b86d29cb53e719f16
+run_name: tasteful-lynx-833
+run_uuid: 982429e05d274f1b86d29cb53e719f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457447962
+status: 3
+tags: []
+user_id: HP

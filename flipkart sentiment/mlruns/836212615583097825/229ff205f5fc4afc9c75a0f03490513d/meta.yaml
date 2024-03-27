@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/229ff205f5fc4afc9c75a0f03490513d/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: 229ff205f5fc4afc9c75a0f03490513d
+run_name: thundering-hawk-950
+run_uuid: 229ff205f5fc4afc9c75a0f03490513d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

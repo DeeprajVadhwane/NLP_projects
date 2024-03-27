@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/0054f52d1b424eb7b7d85f168178b2cb/artifacts
+end_time: 1711470337549
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 0054f52d1b424eb7b7d85f168178b2cb
+run_name: useful-colt-791
+run_uuid: 0054f52d1b424eb7b7d85f168178b2cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711470321161
+status: 3
+tags: []
+user_id: HP

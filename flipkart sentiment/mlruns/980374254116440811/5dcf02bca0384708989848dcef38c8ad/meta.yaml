@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/5dcf02bca0384708989848dcef38c8ad/artifacts
+end_time: 1711448921667
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: 5dcf02bca0384708989848dcef38c8ad
+run_name: melodic-horse-775
+run_uuid: 5dcf02bca0384708989848dcef38c8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711448876900
+status: 3
+tags: []
+user_id: HP

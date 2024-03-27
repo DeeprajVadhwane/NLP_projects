@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/431290379961487328/77fe3ff486c84ec0a96482747414f375/artifacts
+end_time: 1711532904905
+entry_point_name: ''
+experiment_id: '431290379961487328'
+lifecycle_stage: active
+run_id: 77fe3ff486c84ec0a96482747414f375
+run_name: languid-fowl-78
+run_uuid: 77fe3ff486c84ec0a96482747414f375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711532899243
+status: 3
+tags: []
+user_id: HP

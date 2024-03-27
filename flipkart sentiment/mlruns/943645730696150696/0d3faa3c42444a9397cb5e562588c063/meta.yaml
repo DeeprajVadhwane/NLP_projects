@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/0d3faa3c42444a9397cb5e562588c063/artifacts
+end_time: 1711457698697
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 0d3faa3c42444a9397cb5e562588c063
+run_name: entertaining-dog-450
+run_uuid: 0d3faa3c42444a9397cb5e562588c063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457447962
+status: 3
+tags: []
+user_id: HP

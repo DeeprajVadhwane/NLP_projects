@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/d2bdd46e12b947cb888b2b576e1035c6/artifacts
+end_time: 1711470735454
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: d2bdd46e12b947cb888b2b576e1035c6
+run_name: rebellious-moose-488
+run_uuid: d2bdd46e12b947cb888b2b576e1035c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711470716208
+status: 3
+tags: []
+user_id: HP

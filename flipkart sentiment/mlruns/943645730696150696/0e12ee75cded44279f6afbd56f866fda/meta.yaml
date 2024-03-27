@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/0e12ee75cded44279f6afbd56f866fda/artifacts
+end_time: 1711468450808
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 0e12ee75cded44279f6afbd56f866fda
+run_name: popular-snake-975
+run_uuid: 0e12ee75cded44279f6afbd56f866fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711468450679
+status: 4
+tags: []
+user_id: HP

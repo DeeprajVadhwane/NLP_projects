@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/4ca2525d15cf417ea0fc01f69284bdb1/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: 4ca2525d15cf417ea0fc01f69284bdb1
+run_name: shivering-grub-830
+run_uuid: 4ca2525d15cf417ea0fc01f69284bdb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/77853b9dbfc744cf9af38a277a2b075e/artifacts
+end_time: 1711448587209
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: 77853b9dbfc744cf9af38a277a2b075e
+run_name: enthused-fawn-799
+run_uuid: 77853b9dbfc744cf9af38a277a2b075e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711448584690
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/9c1893206b3944a0a009d01d5cd8e2dd/artifacts
+end_time: 1711457698697
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 9c1893206b3944a0a009d01d5cd8e2dd
+run_name: mysterious-kite-37
+run_uuid: 9c1893206b3944a0a009d01d5cd8e2dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457447962
+status: 3
+tags: []
+user_id: HP

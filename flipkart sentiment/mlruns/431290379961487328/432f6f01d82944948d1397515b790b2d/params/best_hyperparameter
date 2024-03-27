@@ -1,0 +1,1 @@
+{'classifier__alpha': 1, 'vectorization': CountVectorizer(), 'vectorization__max_features': 1000}

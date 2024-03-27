@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/b860601d5bc748dabc07167dd590dc50/artifacts
+end_time: 1711457091748
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: b860601d5bc748dabc07167dd590dc50
+run_name: bright-ox-258
+run_uuid: b860601d5bc748dabc07167dd590dc50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457090714
+status: 3
+tags: []
+user_id: HP

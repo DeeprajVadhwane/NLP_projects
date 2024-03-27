@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/7fc977dca5c94a038f9392622ebfe8d2/artifacts
+end_time: 1711469887551
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 7fc977dca5c94a038f9392622ebfe8d2
+run_name: silent-duck-363
+run_uuid: 7fc977dca5c94a038f9392622ebfe8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711469883252
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/ef851da4634e4fa193d6c7f96920fa3d/artifacts
+end_time: 1711456503546
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: ef851da4634e4fa193d6c7f96920fa3d
+run_name: stylish-skunk-466
+run_uuid: ef851da4634e4fa193d6c7f96920fa3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711456502195
+status: 3
+tags: []
+user_id: HP

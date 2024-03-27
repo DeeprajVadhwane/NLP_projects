@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/56b2d91f91d64aed80cfbd08a448aaac/artifacts
+end_time: 1711457212804
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 56b2d91f91d64aed80cfbd08a448aaac
+run_name: welcoming-skunk-95
+run_uuid: 56b2d91f91d64aed80cfbd08a448aaac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457212024
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/3050553b5ed84484a3c1d890e585c9c6/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: 3050553b5ed84484a3c1d890e585c9c6
+run_name: gentle-slug-952
+run_uuid: 3050553b5ed84484a3c1d890e585c9c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

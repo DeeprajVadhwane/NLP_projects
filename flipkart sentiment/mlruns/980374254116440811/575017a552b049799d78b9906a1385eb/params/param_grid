@@ -1,0 +1,1 @@
+[{'vectization': [CountVectorizer(), TfidfVectorizer()], 'vectorization__max_features': [1000, 2000], 'classifier__alpha': [1, 10, 20]}]

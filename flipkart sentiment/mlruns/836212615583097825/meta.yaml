@@ -1,0 +1,6 @@
+artifact_location: file:///d:/MLOPS/mlruns/836212615583097825
+creation_time: 1711446688087
+experiment_id: '836212615583097825'
+last_update_time: 1711446688087
+lifecycle_stage: active
+name: iris_prediction

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/8ee44e07c43d462a85f20b23392701d8/artifacts
+end_time: 1711457698697
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 8ee44e07c43d462a85f20b23392701d8
+run_name: defiant-colt-584
+run_uuid: 8ee44e07c43d462a85f20b23392701d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457447962
+status: 3
+tags: []
+user_id: HP

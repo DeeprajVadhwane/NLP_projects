@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/670667545a9243259cd8b629424bca4c/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: 670667545a9243259cd8b629424bca4c
+run_name: mercurial-doe-810
+run_uuid: 670667545a9243259cd8b629424bca4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP

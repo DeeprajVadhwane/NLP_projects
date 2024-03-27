@@ -1,0 +1,1 @@
+[('vectorization', CountVectorizer()), ('classifier', MultinomialNB())]

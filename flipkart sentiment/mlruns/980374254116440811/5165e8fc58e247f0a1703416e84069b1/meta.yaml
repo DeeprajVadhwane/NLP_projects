@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/5165e8fc58e247f0a1703416e84069b1/artifacts
+end_time: 1711457025507
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: 5165e8fc58e247f0a1703416e84069b1
+run_name: respected-cow-593
+run_uuid: 5165e8fc58e247f0a1703416e84069b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457024857
+status: 3
+tags: []
+user_id: HP

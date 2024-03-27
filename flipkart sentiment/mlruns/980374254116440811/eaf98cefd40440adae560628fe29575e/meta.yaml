@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/eaf98cefd40440adae560628fe29575e/artifacts
+end_time: 1711456155091
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: eaf98cefd40440adae560628fe29575e
+run_name: lyrical-sheep-658
+run_uuid: eaf98cefd40440adae560628fe29575e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711456154928
+status: 4
+tags: []
+user_id: HP

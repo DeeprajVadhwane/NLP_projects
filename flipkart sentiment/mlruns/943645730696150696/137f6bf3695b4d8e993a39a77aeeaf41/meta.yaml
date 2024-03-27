@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/137f6bf3695b4d8e993a39a77aeeaf41/artifacts
+end_time: 1711457698697
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 137f6bf3695b4d8e993a39a77aeeaf41
+run_name: mysterious-slug-899
+run_uuid: 137f6bf3695b4d8e993a39a77aeeaf41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711457447962
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/943645730696150696/3dab7fbb546d45d993db6f3235b90a03/artifacts
+end_time: 1711469654913
+entry_point_name: ''
+experiment_id: '943645730696150696'
+lifecycle_stage: active
+run_id: 3dab7fbb546d45d993db6f3235b90a03
+run_name: likeable-dolphin-673
+run_uuid: 3dab7fbb546d45d993db6f3235b90a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711469648714
+status: 3
+tags: []
+user_id: HP

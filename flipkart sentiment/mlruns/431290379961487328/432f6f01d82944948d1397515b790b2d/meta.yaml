@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/431290379961487328/432f6f01d82944948d1397515b790b2d/artifacts
+end_time: 1711532847439
+entry_point_name: ''
+experiment_id: '431290379961487328'
+lifecycle_stage: active
+run_id: 432f6f01d82944948d1397515b790b2d
+run_name: salty-seal-860
+run_uuid: 432f6f01d82944948d1397515b790b2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711532839826
+status: 3
+tags: []
+user_id: HP

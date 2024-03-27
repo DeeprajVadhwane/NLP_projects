@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/980374254116440811/548d36bac3ff42cf9a4d0ea3655310f4/artifacts
+end_time: 1711454417734
+entry_point_name: ''
+experiment_id: '980374254116440811'
+lifecycle_stage: active
+run_id: 548d36bac3ff42cf9a4d0ea3655310f4
+run_name: marvelous-pug-562
+run_uuid: 548d36bac3ff42cf9a4d0ea3655310f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711454417463
+status: 4
+tags: []
+user_id: HP

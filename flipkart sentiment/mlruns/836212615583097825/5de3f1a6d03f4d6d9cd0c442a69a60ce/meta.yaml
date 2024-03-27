@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS/mlruns/836212615583097825/5de3f1a6d03f4d6d9cd0c442a69a60ce/artifacts
+end_time: 1711446848331
+entry_point_name: ''
+experiment_id: '836212615583097825'
+lifecycle_stage: active
+run_id: 5de3f1a6d03f4d6d9cd0c442a69a60ce
+run_name: awesome-rat-105
+run_uuid: 5de3f1a6d03f4d6d9cd0c442a69a60ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711446811016
+status: 3
+tags: []
+user_id: HP
